@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content" 
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:padding="10dp"
+    android:background="#ffffffff"
+    android:id="@+id/poi_dialog"> 
+    
+    <LinearLayout 
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:orientation="horizontal">
+        
+        <TextView 
+            android:layout_height="wrap_content"
+            android:layout_width="wrap_content"
+            android:textSize="15sp"
+            android:paddingRight="5dp"
+            android:text="名称：" />
+        
+ 		<EditText 
+ 		    android:id="@+id/editname" 
+ 		    android:layout_height="wrap_content"
+ 		    android:layout_width="fill_parent"
+ 		    />
+        
+    </LinearLayout>
+    
+    <LinearLayout 
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:orientation="horizontal">
+        
+        <TextView 
+            android:layout_height="wrap_content"
+            android:layout_width="wrap_content"
+            android:textSize="15sp"
+            android:paddingRight="5dp"
+            android:text="地址：" />
+        
+ 		<EditText 
+ 		    android:id="@+id/editaddr" 
+ 		    android:layout_height="wrap_content"
+ 		    android:layout_width="fill_parent"/>
+        
+    </LinearLayout>
+    
+    <LinearLayout 
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:orientation="horizontal">
+        
+        <TextView 
+            android:layout_height="wrap_content"
+            android:layout_width="wrap_content"
+             android:textSize="15sp"
+            android:paddingRight="5dp"
+            android:text="电话：" />
+        
+ 		<EditText 
+ 		    android:id="@+id/editphone"
+ 		    android:layout_height="wrap_content"
+ 		    android:layout_width="fill_parent"/>
+        
+    </LinearLayout>
+ 	
+
+</LinearLayout>

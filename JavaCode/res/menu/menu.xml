@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+    <item
+        android:title="兴趣点模式"
+        android:id="@+id/poimodel">
+    </item>
+    <item
+        android:title="方向模式"
+        android:id="@+id/directionmodel">
+    </item>
+    <item
+        android:title="添加兴趣点"
+        android:id="@+id/addpoi">
+    </item>
+
+</menu>

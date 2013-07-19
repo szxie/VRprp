@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="30"
+   name=""
+   committed-date="2013-05-21T10:49:36.598215Z"
+   url="http://202.120.38.20/svn/Project/trunk"
+   last-author="lhc"
+   kind="dir"
+   uuid="eb846dd8-ea6f-aa46-bd18-23bdff51d8fb"
+   repos="http://202.120.38.20/svn/Project"
+   revision="30"/>
+<entry
+   committed-rev="23"
+   name=".classpath"
+   text-time="2013-05-17T03:47:33.357836Z"
+   committed-date="2013-05-16T13:24:45.291655Z"
+   checksum="190f666332cc550efd902a01024e2762"
+   last-author="lhc"
+   kind="file"
+   prop-time="2013-05-17T03:47:25.754402Z"/>
+<entry
+   committed-rev="23"
+   name="project.properties"
+   text-time="2013-05-17T03:47:33.375838Z"
+   committed-date="2013-05-16T13:24:45.291655Z"
+   checksum="8b46c4526e31e9a5dc191bd6c1c85f83"
+   last-author="lhc"
+   kind="file"
+   prop-time="2013-05-17T03:47:25.766402Z"/>
+<entry
+   name="assets"
+   kind="dir"/>
+<entry
+   committed-rev="23"
+   name=".project"
+   text-time="2013-05-17T03:47:33.431841Z"
+   committed-date="2013-05-16T13:24:45.291655Z"
+   checksum="fe82c007ec07723a0db027e0cceeb4ab"
+   last-author="lhc"
+   kind="file"
+   prop-time="2013-05-17T03:47:25.823406Z"/>
+<entry
+   committed-rev="23"
+   name="proguard-project.txt"
+   text-time="2013-05-17T03:47:33.466843Z"
+   committed-date="2013-05-16T13:24:45.291655Z"
+   checksum="18bfe77c342b4698f1cef19cf8d918e2"
+   last-author="lhc"
+   kind="file"
+   prop-time="2013-05-17T03:47:25.833406Z"/>
+<entry
+   committed-rev="23"
+   name="AndroidManifest.xml"
+   text-time="2013-05-17T03:47:33.483844Z"
+   committed-date="2013-05-16T13:24:45.291655Z"
+   checksum="65ca01f0d1dd38afa98a767c622927ed"
+   last-author="lhc"
+   kind="file"
+   prop-time="2013-05-17T03:47:25.843407Z"/>
+<entry
+   name="src"
+   kind="dir"/>
+<entry
+   name="bin"
+   kind="dir"/>
+<entry
+   name="gen"
+   kind="dir"/>
+<entry
+   name="libs"
+   kind="dir"/>
+<entry
+   name="res"
+   kind="dir"/>
+<entry
+   committed-rev="23"
+   name="ic_launcher-web.png"
+   text-time="2013-05-17T03:47:33.526846Z"
+   committed-date="2013-05-16T13:24:45.291655Z"
+   checksum="7b5aa5cf176714359ca74dde6c48aa26"
+   last-author="lhc"
+   kind="file"
+   prop-time="2013-05-17T03:47:32.849807Z"/>
+<entry
+   name=".settings"
+   kind="dir"/>
+</wc-entries>

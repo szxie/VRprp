@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="25"
+   name=""
+   committed-date="2013-05-17T08:54:43.208746Z"
+   url="http://202.120.38.20/svn/Project/trunk/res/drawable-hdpi"
+   last-author="lhc"
+   kind="dir"
+   uuid="eb846dd8-ea6f-aa46-bd18-23bdff51d8fb"
+   repos="http://202.120.38.20/svn/Project"
+   revision="30"/>
+<entry
+   committed-rev="23"
+   name="yellow1.png"
+   text-time="2013-05-17T03:47:30.822691Z"
+   committed-date="2013-05-16T13:24:45.291655Z"
+   checksum="e07d57e2bc3990d284a5d197a0eac314"
+   last-author="lhc"
+   kind="file"
+   prop-time="2013-05-17T03:47:30.657682Z"/>
+<entry
+   name="callstatus_btn_offline_fg.png"
+   kind="file"
+   schedule="add"
+   revision="0"/>
+<entry
+   name="profile_head_bg.9.png"
+   kind="file"
+   schedule="add"
+   revision="0"/>
+<entry
+   committed-rev="31"
+   name="righttop.png"
+   text-time="2013-05-23T05:38:42.080000Z"
+   committed-date="2013-05-24T01:40:16.825683Z"
+   checksum="a26e15c914199a735a445489b54c1bef"
+   last-author="lhc"
+   kind="file"
+   prop-time="2013-05-23T06:14:57.565852Z"
+   revision="31"/>
+<entry
+   name="background_light_grey.9.png"
+   kind="file"
+   schedule="add"
+   revision="0"/>
+<entry
+   name="go_detail_n.png"
+   kind="file"
+   schedule="add"
+   revision="0"/>
+<entry
+   name="groupopbtn_addfav.png"
+   kind="file"
+   schedule="add"
+   revision="0"/>
+<entry
+   committed-rev="31"
+   name="rightdown.png"
+   text-time="2013-05-23T05:40:45.887000Z"
+   committed-date="2013-05-24T01:40:16.825683Z"
+   checksum="3126160fc3dbfed2ac2ab4e0350f34d4"
+   last-author="lhc"
+   kind="file"
+   prop-time="2013-05-23T06:14:57.589854Z"
+   revision="31"/>
+<entry
+   name="go_detail_p.png"
+   kind="file"
+   schedule="add"
+   revision="0"/>
+<entry
+   name="groupopbtn_copy_p.png"
+   kind="file"
+   schedule="add"
+   revision="0"/>
+<entry
+   name="camera_open.png"
+   kind="file"
+   schedule="add"
+   revision="0"/>
+<entry
+   committed-rev="23"
+   name="yellow.png"
+   text-time="2013-05-17T03:47:31.034704Z"
+   committed-date="2013-05-16T13:24:45.291655Z"
+   checksum="8392a2477213ab6ffb13a1cc0873993c"
+   last-author="lhc"
+   kind="file"
+   prop-time="2013-05-17T03:47:30.771689Z"/>
+<entry
+   committed-rev="23"
+   name="ic_launcher.png"
+   text-time="2013-05-17T03:47:30.797690Z"
+   committed-date="2013-05-16T13:24:45.291655Z"
+   checksum="35d78536163db9e11b34ad1d2801399c"
+   last-author="lhc"
+   kind="file"
+   prop-time="2013-05-17T03:47:30.624680Z"/>
+<entry
+   committed-rev="31"
+   name="lefttop.png"
+   text-time="2013-05-23T05:40:00.618000Z"
+   committed-date="2013-05-24T01:40:16.825683Z"
+   checksum="0259636394c1af14738d26c6f6faea69"
+   last-author="lhc"
+   kind="file"
+   prop-time="2013-05-23T06:14:57.626856Z"
+   revision="31"/>
+<entry
+   committed-rev="23"
+   name="ic_action_search.png"
+   text-time="2013-05-17T03:47:30.976700Z"
+   committed-date="2013-05-16T13:24:45.291655Z"
+   checksum="005129410f686bbd68a1be82ec34cf01"
+   last-author="lhc"
+   kind="file"
+   prop-time="2013-05-17T03:47:30.734686Z"/>
+<entry
+   name="camera_close.png"
+   kind="file"
+   schedule="add"
+   revision="0"/>
+<entry
+   name="background_dark_grey.9.png"
+   kind="file"
+   schedule="add"
+   revision="0"/>
+<entry
+   committed-rev="31"
+   name="leftdown.png"
+   text-time="2013-05-23T05:40:26.029000Z"
+   committed-date="2013-05-24T01:40:16.825683Z"
+   checksum="65eb0e040a150aad2fdb1a30fd4f13e8"
+   last-author="lhc"
+   kind="file"
+   prop-time="2013-05-23T06:14:57.448845Z"
+   revision="31"/>
+<entry
+   name="backcollor.9.png"
+   kind="file"
+   schedule="add"
+   revision="0"/>
+<entry
+   name="groupopbtn_addfav_p.png"
+   kind="file"
+   schedule="add"
+   revision="0"/>
+<entry
+   committed-rev="25"
+   name="focusbg.jpg"
+   text-time="2013-05-17T05:13:31.467000Z"
+   committed-date="2013-05-17T08:54:43.208746Z"
+   checksum="fb44208622ec31116a15626160233a30"
+   last-author="lhc"
+   kind="file"
+   prop-time="2013-05-17T05:48:04.643442Z"/>
+<entry
+   name="groupopbtn_copy.png"
+   kind="file"
+   schedule="add"
+   revision="0"/>
+<entry
+   name="callstatus_btn_ava_online_fg.png"
+   kind="file"
+   schedule="add"
+   revision="0"/>
+</wc-entries>

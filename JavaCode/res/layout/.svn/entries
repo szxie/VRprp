@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="25"
+   name=""
+   committed-date="2013-05-17T08:54:43.208746Z"
+   url="http://202.120.38.20/svn/Project/trunk/res/layout"
+   last-author="lhc"
+   kind="dir"
+   uuid="eb846dd8-ea6f-aa46-bd18-23bdff51d8fb"
+   repos="http://202.120.38.20/svn/Project"
+   revision="30"/>
+<entry
+   committed-rev="23"
+   name="layout_showimage.xml"
+   text-time="2013-05-17T03:47:32.635795Z"
+   committed-date="2013-05-16T13:24:45.291655Z"
+   checksum="80b01c78f3cd270e4f1f4a03327a623c"
+   last-author="lhc"
+   kind="file"
+   prop-time="2013-05-17T03:47:32.502788Z"/>
+<entry
+   committed-rev="23"
+   name="ballon.xml"
+   text-time="2013-05-17T03:47:32.659797Z"
+   committed-date="2013-05-16T13:24:45.291655Z"
+   checksum="c279f3c3fd18a81e8962b4d7e8166990"
+   last-author="lhc"
+   kind="file"
+   prop-time="2013-05-17T03:47:32.538790Z"/>
+<entry
+   committed-rev="31"
+   name="highlight.xml"
+   text-time="2013-05-23T06:47:09.995345Z"
+   committed-date="2013-05-24T01:40:16.825683Z"
+   checksum="6071ec953397162e5f94346df894ad79"
+   last-author="lhc"
+   kind="file"
+   revision="31"/>
+<entry
+   committed-rev="23"
+   name="camera.xml"
+   text-time="2013-05-17T03:47:32.755802Z"
+   committed-date="2013-05-16T13:24:45.291655Z"
+   checksum="2383e090cf8ffe87995548c61336c1af"
+   last-author="lhc"
+   kind="file"
+   prop-time="2013-05-17T03:47:32.583792Z"/>
+<entry
+   name="dialog.xml"
+   kind="file"
+   deleted="true"
+   revision="31"/>
+</wc-entries>

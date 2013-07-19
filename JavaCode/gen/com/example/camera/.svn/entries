@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="23"
+   name=""
+   committed-date="2013-05-16T13:24:45.291655Z"
+   url="http://202.120.38.20/svn/Project/trunk/gen/com/example/camera"
+   last-author="lhc"
+   kind="dir"
+   uuid="eb846dd8-ea6f-aa46-bd18-23bdff51d8fb"
+   repos="http://202.120.38.20/svn/Project"
+   revision="30"/>
+<entry
+   committed-rev="23"
+   name="R.java"
+   text-time="2013-05-17T09:03:25.044811Z"
+   committed-date="2013-05-16T13:24:45.291655Z"
+   checksum="40d1d501d9a07f983817bbfa2e2750c7"
+   last-author="lhc"
+   kind="file"
+   prop-time="2013-05-17T03:47:29.109594Z"/>
+<entry
+   committed-rev="23"
+   name="BuildConfig.java"
+   text-time="2013-05-17T03:47:29.334606Z"
+   committed-date="2013-05-16T13:24:45.291655Z"
+   checksum="5655a3027893f8dcd59fafcaa9874cb7"
+   last-author="lhc"
+   kind="file"
+   prop-time="2013-05-17T03:47:29.127595Z"/>
+<entry
+   committed-rev="23"
+   name="Manifest.java"
+   text-time="2013-05-17T03:47:29.389610Z"
+   committed-date="2013-05-16T13:24:45.291655Z"
+   checksum="3cdb2c1ea41dad01af8a5607c4b17529"
+   last-author="lhc"
+   kind="file"
+   prop-time="2013-05-17T03:47:29.151596Z"/>
+</wc-entries>

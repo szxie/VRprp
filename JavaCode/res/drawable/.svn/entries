@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   name=""
+   url="http://202.120.38.20/svn/Project/trunk/res/drawable"
+   kind="dir"
+   repos="http://202.120.38.20/svn/Project"
+   schedule="add"
+   revision="0"/>
+<entry
+   name="addpoi.xml"
+   kind="file"
+   schedule="add"/>
+<entry
+   name="cameracapture.xml"
+   kind="file"
+   schedule="add"/>
+<entry
+   name="picdetail.xml"
+   kind="file"
+   schedule="add"/>
+</wc-entries>

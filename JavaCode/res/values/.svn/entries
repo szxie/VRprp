@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="30"
+   name=""
+   committed-date="2013-05-21T10:49:36.598215Z"
+   url="http://202.120.38.20/svn/Project/trunk/res/values"
+   last-author="lhc"
+   kind="dir"
+   uuid="eb846dd8-ea6f-aa46-bd18-23bdff51d8fb"
+   repos="http://202.120.38.20/svn/Project"
+   revision="30"/>
+<entry
+   committed-rev="25"
+   name="styles.xml"
+   text-time="2013-05-17T05:49:09.470150Z"
+   committed-date="2013-05-17T08:54:43.208746Z"
+   checksum="235fcdfa9ff53ea47f6ea44b8adf2fea"
+   last-author="lhc"
+   kind="file"
+   prop-time="2013-05-17T03:47:30.374666Z"/>
+<entry
+   committed-rev="30"
+   name="strings.xml"
+   text-time="2013-05-23T02:30:06.813857Z"
+   committed-date="2013-05-21T10:49:36.598215Z"
+   checksum="7fce7f02d3a8d75833d660055f333526"
+   last-author="lhc"
+   kind="file"
+   prop-time="2013-05-23T02:30:06.776855Z"/>
+</wc-entries>
